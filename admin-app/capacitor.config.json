@@ -1,0 +1,9 @@
+{
+  "appId": "id.kosku.admin",
+  "appName": "KosKu Admin",
+  "webDir": "www",
+  "server": { "androidScheme": "https" },
+  "plugins": {
+    "PushNotifications": { "presentationOptions": ["badge", "sound", "alert"] }
+  }
+}
